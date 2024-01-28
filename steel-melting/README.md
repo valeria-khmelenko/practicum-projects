@@ -18,10 +18,10 @@ catboost, lightgbm, sklearn, seaborn, matplotlib, numpy, pandas
 
 ## Модель
 Итоговая модель градиентного бустинга LGBMRegressor со следующими гиперпараметрами:
-максимальная глубина дерева (max_depth) = 6;
-число деревьев в лесу (n_estimators) = 230;
-скорость обучения (learning_rate) = 0.04;
-random_state=240423.
+- максимальная глубина дерева (max_depth) = 6;
+- число деревьев в лесу (n_estimators) = 230;
+- скорость обучения (learning_rate) = 0.04;
+- random_state=240423.
 
 ## Метрика
 MAE = = 6.3 (при ориентировочной метрики МАЕ < 6.8)
