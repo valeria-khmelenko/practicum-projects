@@ -8,6 +8,10 @@
 
 Данные лежат в файле taxi.csv. Количество заказов находится в столбце num_orders
 
+## Используемые библиотеки
+
+statsmodels, sklearn, matplotlib, pandas
+
 ## Модель
 
 Были построены 3 модели (LinearRegression, LGBMRegressor, RandomForestRegressor) и найдены для них оптимальные параметры для последующего обучения и предсказания.
