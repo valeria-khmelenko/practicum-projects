@@ -5,6 +5,9 @@
 ## Входящие данные
 Данные взяты с сайта https://chalearnlap.cvc.uab.es/dataset/26/description/
 
+## Используемые библиотеки
+tensorflow, matplotlib, numpy, pandas
+
 ## Модель
 Модель с использованием ResNet50
 
